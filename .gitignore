@@ -1,0 +1,3 @@
+.venv/
+user info.txt
+db.sqlite3
